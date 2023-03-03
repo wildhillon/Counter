@@ -1,0 +1,19 @@
+body {
+    background: conic-gradient(from -.5turn at bottom right, deeppink, cyan, rebeccapurple);
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .counter-box {
+    border: 3px solid black;
+    width: 500px;
+    text-align: center;
+    height: 300px;
+    padding: 50px 0 ;
+    background-color: #feffea;
+  }
